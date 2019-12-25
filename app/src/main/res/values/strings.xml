@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Toaster</string>
+    <string name="some_toast">Some toast message</string>
+    <string name="no_msg">No message provided</string>
+</resources>
